@@ -1,14 +1,14 @@
 # hello-world
 
-- [ ] Mercury
+- [x] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Jupiter
+- [x] Saturn
+- [x] Uranus
+- [x] Neptune
+- [x] Comet Haley
 
  + item3
  
